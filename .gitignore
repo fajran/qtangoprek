@@ -2,3 +2,4 @@
 *.app
 build/
 *.swp
+Makefile
