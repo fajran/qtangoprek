@@ -1,0 +1,4 @@
+*.o
+*.app
+build/
+*.swp
